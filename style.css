@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Overpass+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@500&family=Overpass+Mono&display=swap'); 
+
+
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: #fff2ff;
+    color: #454140;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    padding-left: 252px;
+    margin-bottom: 25px;
+   
+}
+
+#content{
+    max-width: 920px;
+    width: 98%;
+    margin: auto;
+    font-size: 13px; 
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+
+
+legend{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight:700px;
+}
+
+fieldset{
+    margin-top: 30px;
+    font-size: 22px;
+    max-width: 900px;
+    justify-content: center;
+    text-align: center;
+   }
+    
+label {
+    color: #454140;
+    justify-content: space-evenly;
+    }
+
+.footer{
+        margin-left: 40px;
+        margin-right: 40px;
+        font-size: 13px;
+        font-style: italic;
+    }
+
+.resultado{
+    color: #36486b;
+    font-size: 32px;
+    font-style: Bold;
+    text-decoration: orangered;
+}
