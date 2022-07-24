@@ -1,6 +1,6 @@
 
 # Mapeando o jornalismo nos estados brasileiros
-### 📰 Qual a dimensão da imprensa ativa no seu estado?
+### 📰 Como é a imprensa onde você mora?
 
 29% dos brasileiros vivem hoje em **desertos ou quase desertos de notícias***, de acordo com a mais recente edição do [Atlas da Notícia](https://docs.google.com/presentation/d/e/2PACX-1vR-f5lMNo-MDPTZtQGLEmienJCFfkAxmqpRuL6lpg5o_g6vE9WnMuEu94wn0DeDspft7BGQNPxlvToC/pub?start=false&loop=false&delayms=3000&slide=id.p27).
 
